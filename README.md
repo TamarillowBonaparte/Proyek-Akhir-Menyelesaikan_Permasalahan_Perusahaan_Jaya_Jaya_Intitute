@@ -6,7 +6,12 @@ Jaya Jaya Institut mengalami tingkat dropout siswa yang signifikan, terutama pad
 Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
 
 ### Cakupan Proyek
-Tuliskan cakupan proyek yang akan dikerjakan.
+1. Pengumpulan dan pembersihan data siswa.
+2. Eksplorasi dan analisis visual terhadap faktor-faktor demografis, akademik, dan ekonomi.
+3. Engineering fitur dan seleksi fitur paling relevan.
+4. Pelatihan berbagai model machine learning dan tuning hyperparameter.
+5. Evaluasi performa model berdasarkan metrik klasifikasi.
+6. Penyimpanan model terbaik beserta scaler dan encoder untuk deployment.
 
 ### Persiapan
 
