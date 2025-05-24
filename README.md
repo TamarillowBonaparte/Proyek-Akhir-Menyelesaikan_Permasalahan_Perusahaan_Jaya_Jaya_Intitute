@@ -1,8 +1,7 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
-
+Proyek ini bertujuan untuk membantu **Jaya Jaya Institut**, sebuah perusahaan edutech, dalam mengidentifikasi siswa yang berisiko tinggi mengalami **dropout**. Dengan menggunakan data historis siswa dan model machine learning, sistem ini memprediksi kemungkinan seorang siswa akan lulus atau dropout, serta memberikan wawasan bagi tim akademik untuk mengambil tindakan preventif.
 ## Business Understanding
-Jelaskan latar belakang bisnis dari perushaan tersebut.
-
+Jaya Jaya Institut mengalami tingkat dropout siswa yang signifikan, terutama pada semester awal. Hal ini berdampak pada reputasi institusi, efisiensi sumber daya pengajaran, dan pengelolaan operasional. Proyek ini hadir untuk memberikan solusi prediktif guna membantu manajemen memahami pola-pola yang menyebabkan siswa dropout.
 ### Permasalahan Bisnis
 Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
 
