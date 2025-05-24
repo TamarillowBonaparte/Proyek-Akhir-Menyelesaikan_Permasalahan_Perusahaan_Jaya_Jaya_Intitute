@@ -57,16 +57,16 @@ requirements.txt → Dependensi environment
 ## Conclusion
 erdasarkan eksperimen machine learning, proyek ini berhasil menghasilkan model prediktif dropout siswa dengan akurasi dan F1-score tinggi (lebih dari 90%). Model terbaik adalah XGBoost, dengan performa optimal setelah tuning hyperparameter. Hasil proyek ini mampu menjawab permasalahan bisnis sebagai berikut:
 
-Mengatasi Tingginya Dropout di Awal Semester
+- Mengatasi Tingginya Dropout di Awal Semester
 Model mampu mengidentifikasi siswa dengan risiko tinggi di awal semester, memungkinkan institusi untuk memberikan perhatian lebih cepat sebelum terjadi dropout.
 
-Membangun Sistem Peringatan Dini Berbasis Data
+- Membangun Sistem Peringatan Dini Berbasis Data
 Dengan model prediktif yang telah dibangun, sistem dapat diterapkan sebagai early warning system untuk mendeteksi siswa berisiko sejak dini.
 
-Mengungkap Faktor Penyebab Dropout
+- Mengungkap Faktor Penyebab Dropout
 Proyek ini mengungkap bahwa beasiswa, status ekonomi, nilai akademik, dan performa semester awal adalah faktor penting dalam menentukan keberhasilan siswa.
 
-Menyediakan Dasar Strategi Retensi yang Terpersonalisasi
+- Menyediakan Dasar Strategi Retensi yang Terpersonalisasi
 Output model dan analisis fitur penting dapat digunakan untuk menyusun strategi intervensi spesifik, seperti program mentoring, bantuan finansial, dan pembinaan akademik.
 ### Rekomendasi Action Items
 - Buat sistem peringatan dini untuk siswa dengan nilai semester pertama rendah.
