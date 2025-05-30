@@ -50,7 +50,41 @@ Aplikasi akan terbuka di browser default Anda di alamat
 http://localhost:8501
 ```
 ## Business Dashboard
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Business Dashboard
+Business dashboard dibuat menggunakan Metabase sebagai alat visualisasi data untuk mempermudah pemahaman terhadap pola dropout dan kelulusan siswa di Jaya Jaya Institut. Dashboard ini menyajikan insight penting yang mendukung pengambilan keputusan dalam hal pencegahan dropout.
+
+Berikut ini adalah beberapa visualisasi utama yang ditampilkan dalam dashboard:
+
+Distribusi Usia Berdasarkan Status (Dropout vs Graduate)
+Visualisasi ini menunjukkan sebaran usia siswa saat mendaftar, dikategorikan berdasarkan status kelulusan. Hal ini berguna untuk melihat apakah usia memengaruhi kemungkinan dropout.
+
+Komposisi Status Dropout dan Graduate (Pie Chart)
+Menampilkan perbandingan proporsi antara jumlah siswa yang dropout dan yang lulus. Dari grafik terlihat bahwa sekitar 39,1% siswa mengalami dropout.
+
+Perbandingan Nilai Semester 1 dan Semester 2 Berdasarkan Status
+Menggambarkan total nilai dari semester 1 dan 2 antara siswa dropout dan graduate. Visual ini menunjukkan bahwa nilai siswa dropout cenderung lebih rendah dari yang lulus.
+
+Jumlah Dropout Berdasarkan Gender
+Grafik ini menunjukkan perbedaan dropout antara laki-laki dan perempuan. Visual ini penting untuk melihat apakah ada ketimpangan gender terkait dropout.
+
+Relasi Pendidikan Ibu dengan Status Siswa (Sankey Diagram)
+Menunjukkan distribusi status kelulusan berdasarkan latar belakang pendidikan ibu. Diagram ini memberikan insight apakah pendidikan orang tua memiliki pengaruh terhadap keberhasilan studi siswa.
+
+Relasi Pendidikan Ayah dengan Status Siswa (Sankey Diagram)
+Serupa dengan pendidikan ibu, grafik ini memperlihatkan bagaimana tingkat pendidikan ayah berkorelasi dengan status kelulusan anak.
+
+Akses Dashboard
+Dashboard dapat diakses melalui alamat berikut:
+Link Dashboard Metabase
+(https://drive.google.com/drive/folders/1aoohoRMaQLquc_rZjxdvyaoRNXe5oU8g?usp=sharing)
+
+Untuk login ke Metabase, gunakan kredensial berikut:
+
+Email: root@mail.com
+
+Password: root123
+
+Pastikan Metabase telah dijalankan dengan benar agar dashboard dapat diakses dan divalidasi oleh evaluator atau reviewer.
 
 ## Menjalankan Sistem Machine Learning
 Untuk menjalankan prototype:
