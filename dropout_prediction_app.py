@@ -5,18 +5,7 @@ import joblib
 import os
 import matplotlib.pyplot as plt
 import seaborn as sns
-import requests
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-
-def download_file(url, save_path):
-    if not os.path.exists(save_path):
-        os.makedirs(os.path.dirname(save_path), exist_ok=True)
-        r = requests.get(url)
-        r.raise_for_status()
-        with open(save_path, "wb") as f:
-            f.write(r.content)
-
-download_file("https://raw.githubusercontent.com/username/repo/main/model/Model.joblib", "model/Model.joblib")
 
 # Set page configuration
 st.set_page_config(
