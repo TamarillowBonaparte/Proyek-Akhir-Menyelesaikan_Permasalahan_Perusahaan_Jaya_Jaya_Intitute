@@ -87,6 +87,11 @@ Password: root123
 Pastikan Metabase telah dijalankan dengan benar agar dashboard dapat diakses dan divalidasi oleh evaluator atau reviewer.
 
 ## Menjalankan Sistem Machine Learning
+### Link Deploy Aplikasi Machine Learning
+Sebagai bagian dari penyelesaian proyek akhir ini, prototipe sistem prediksi dropout siswa telah berhasil dibuat dan dideploy secara online menggunakan Streamlit. Aplikasi ini dapat diakses melalui link berikut:
+https://proyek-akhir-menyelesaikanpermasalahanperusahaanjayajayaintitu.streamlit.app/
+
+Melalui aplikasi ini, pengguna dapat melakukan input data siswa secara interaktif dan mendapatkan prediksi risiko dropout secara real-time, sehingga memberikan solusi praktis dan langsung untuk mendukung pengambilan keputusan di Jaya Jaya Institut.
 Untuk menjalankan prototype:
 1. Jalankan notebook_dani.py atau file .ipynb pada Google Colab/Jupyter Notebook.
 2. Pastikan data telah disiapkan dalam format data.csv (dipisahkan oleh ;).
